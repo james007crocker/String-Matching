@@ -1,4 +1,8 @@
-There are two files included with this submission that are able to run the string matching algorithms.
+##String Matching Algorithms
+
+This repo contains impelementations of various string matching algorithms. 
+
+<b>Deployment Instructions: </b>
 
 1) main.java
 ----------------
